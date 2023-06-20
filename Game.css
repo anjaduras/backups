@@ -1,0 +1,15 @@
+
+.gameBody {
+    background-color: #3C8AFF;
+    padding: 5%;
+}
+.gameButton{
+    padding: 3%;
+    background-color: #FFD600;
+    border-color: transparent;
+    border-radius: 100%;
+    font-weight: 900;
+}
+.gameButton:hover{
+    background-color: #38ac12;
+}
