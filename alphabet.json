@@ -1,0 +1,147 @@
+[
+    {
+        "letter": "А",
+        "photo": "./sign_alphabet/А.jpg",
+        "writtenVersion": "The written version of letter А"
+    },
+    {
+        "letter": "Б",
+        "photo": "./sign_alphabet/Б.jpg",
+        "writtenVersion": "The written version of letter Б"
+    },
+    {
+        "letter": "В",
+        "photo": "./sign_alphabet/В.jpg",
+        "writtenVersion": "The written version of letter В"
+    },
+    {
+        "letter": "Г",
+        "photo": "./sign_alphabet/Г.jpg",
+        "writtenVersion": "The written version of letter Г"
+    },
+    {
+        "letter": "Д",
+        "photo": "./sign_alphabet/Д.jpg",
+        "writtenVersion": "The written version of letter Д"
+    },
+    {
+        "letter": "Е",
+        "photo": "./sign_alphabet/Е.jpg",
+        "writtenVersion": "The written version of letter Е"
+    },
+    {
+        "letter": "Є",
+        "photo": "./sign_alphabet/Є.jpg",
+        "writtenVersion": "The written version of letter Є"
+    },
+    {
+        "letter": "Ж",
+        "photo": "./sign_alphabet/Ж.jpg",
+        "writtenVersion": "The written version of letter Ж"
+    },
+    {
+        "letter": "З",
+        "photo": "./sign_alphabet/З.jpg",
+        "writtenVersion": "The written version of letter З"
+    },
+    {
+        "letter": "И",
+        "photo": "./sign_alphabet/И.jpg",
+        "writtenVersion": "The written version of letter И"
+    },
+    {
+        "letter": "І",
+        "photo": "./sign_alphabet/І.jpg",
+        "writtenVersion": "The written version of letter І"
+    },
+    {
+        "letter": "К",
+        "photo": "./sign_alphabet/К.jpg",
+        "writtenVersion": "The written version of letter К"
+    },
+    {
+        "letter": "Л",
+        "photo": "./sign_alphabet/Л.jpg",
+        "writtenVersion": "The written version of letter Л"
+    },
+    {
+        "letter": "М",
+        "photo": "./sign_alphabet/М.jpg",
+        "writtenVersion": "The written version of letter М"
+    },
+    {
+        "letter": "Н",
+        "photo": "./sign_alphabet/Н.jpg",
+        "writtenVersion": "The written version of letter Н"
+    },
+    {
+        "letter": "О",
+        "photo": "./sign_alphabet/О.jpg",
+        "writtenVersion": "The written version of letter О"
+    },
+    {
+        "letter": "П",
+        "photo": "./sign_alphabet/П.jpg",
+        "writtenVersion": "The written version of letter П"
+    },
+    {
+        "letter": "Р",
+        "photo": "./sign_alphabet/Р.jpg",
+        "writtenVersion": "The written version of letter Р"
+    },
+    {
+        "letter": "С",
+        "photo": "./sign_alphabet/С.jpg",
+        "writtenVersion": "The written version of letter С"
+    },
+    {
+        "letter": "Т",
+        "photo": "./sign_alphabet/Т.jpg",
+        "writtenVersion": "The written version of letter Т"
+    },
+    {
+        "letter": "У",
+        "photo": "./sign_alphabet/У.jpg",
+        "writtenVersion": "The written version of letter У"
+    },
+    {
+        "letter": "Ф",
+        "photo": "./sign_alphabet/Ф.jpg",
+        "writtenVersion": "The written version of letter Ф"
+    },
+    {
+        "letter": "Х",
+        "photo": "./sign_alphabet/Х.jpg",
+        "writtenVersion": "The written version of letter Х"
+    },
+    {
+        "letter": "Ц",
+        "photo": "./sign_alphabet/Ц.jpg",
+        "writtenVersion": "The written version of letter Ц"
+    },
+    {
+        "letter": "Ч",
+        "photo": "./sign_alphabet/Ч.jpg",
+        "writtenVersion": "The written version of letter Ч"
+    },
+    {
+        "letter": "Ш",
+        "photo": "./sign_alphabet/Ш.jpg",
+        "writtenVersion": "The written version of letter Ш"
+    },
+    {
+        "letter": "Ь",
+        "photo": "./sign_alphabet/Ь.jpg",
+        "writtenVersion": "The written version of letter Ь"
+    },
+    {
+        "letter": "Ю",
+        "photo": "./sign_alphabet/Ю.jpg",
+        "writtenVersion": "The written version of letter Ю"
+    },
+    {
+        "letter": "Я",
+        "photo": "./sign_alphabet/Я.jpg",
+        "writtenVersion": "The written version of letter Я"
+    }
+]
