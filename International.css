@@ -1,0 +1,16 @@
+.InterBody {
+    background-color: #FAFAFA;
+    font-size: 25px;
+}
+
+.InterHeader {
+    height: 20%;
+    background-color: #FFD600;
+    padding: 5%;
+}
+
+.quelle {
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
