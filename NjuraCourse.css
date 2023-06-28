@@ -1,0 +1,21 @@
+.CourseBody {
+    background-color: #FAFAFA;
+    font-size: 25px;
+}
+
+.CourseHeader {
+    height: 20%;
+    background-color: #FFD600;
+    padding: 7%;
+}
+
+.YouTubeImg{
+    width: 300px;
+    border-radius: 10%;
+}
+
+.NPInput{
+    padding: 10px;
+    border-radius: 30px;
+    border-color: transparent
+}

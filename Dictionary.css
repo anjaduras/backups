@@ -1,0 +1,65 @@
+.DictionaryBody {
+  background-color: #3C8AFF;
+  padding: 5%;
+  font-size: 25px;
+  text-align: center;
+}
+
+.DictionaryList.selected {
+  background-color: rgb(255, 1, 196);
+  /* Add any other styles you want to apply to the selected letter */
+}
+
+.learnArea {
+  padding: 5%;
+  font-size: 30px;
+  list-style: none;
+}
+
+.DictionaryList {
+  display: inline-block;
+  margin: 15px;
+  padding: 25px;
+  border-radius: 100%;
+  background-color: #FFD600;
+}
+
+.sign {
+  width: 30px;
+}
+
+.red {
+  text-decoration: underline rgb(181, 4, 4) 3px;
+}
+
+.orange {
+  text-decoration: underline rgb(224, 105, 0) 3px;
+}
+
+.yellow {
+  text-decoration: underline rgb(255, 255, 40) 3px;
+}
+
+.green {
+  text-decoration: underline rgb(0, 255, 72) 3px;
+}
+
+.blue{
+  text-decoration: underline rgb(9, 9, 113) 3px;
+}
+
+.purple{
+  text-decoration: underline rgb(115, 0, 115) 3px;
+}
+
+.black {
+  text-decoration: underline black 3px;
+}
+
+.white{
+  text-decoration: underline rgb(217, 213, 213) 3px;
+}
+
+.pink {
+  text-decoration: underline rgb(255, 0, 204) 3px;
+}
