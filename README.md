@@ -13,5 +13,4 @@
 - всі потрібні для сайту емоджи
 - doodle designs in wireframe, light theme and dark theme
 - flag for homepage
- 
-*Тут ще нема літер, в яких треба домальовувати деталі (Й, Ї, Щ, можливо ще якась). Плюс треба домалювати деталі у вже наявних З, К, Д
+- відео для dictionary
